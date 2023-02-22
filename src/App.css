@@ -1,0 +1,18 @@
+.html {}
+
+.body {}
+
+.input {
+	width: "400px";
+	height: "50vh";
+	padding: "10px";
+}
+
+.outputStyle {
+	width: "400px";
+	height: "60vh";
+	background-color: #f0f8ff;
+	margin: auto;
+	padding: "10px";
+	overflow: "auto";
+}
